@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.duck-go {
+    display: block;
+    margin-left: auto;
+    margin-top: 180px;
+    margin-right: auto;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+
+}
